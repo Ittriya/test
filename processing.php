@@ -1,5 +1,5 @@
 <?php
-$logfile="log.txt"; //файл для логгирования
+$logfile="logfile.log"; //файл для логгирования
 //задаём базу пользователей
 $users = array( array ("name" => "Иван", 
 						"surname" => "Иванов", 
